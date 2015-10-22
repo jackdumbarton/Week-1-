@@ -1,0 +1,4 @@
+A = 50
+B = 20
+sum(a+b)
+print (sum)
